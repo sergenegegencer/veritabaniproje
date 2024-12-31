@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIHwaIo0nbs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\MakeYourLineUp\\MakeYourLineUp\\FutbolAnaliz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
